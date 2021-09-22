@@ -9,3 +9,5 @@ Para esse projeto, peguei o código base do super trunfo e fiz algumas alteraç�
 - agora é possível rodar o jogo diversas vezes sem precisar ficar atualizando a página.
 
 ### Screenshot 🖼️
+
+https://user-images.githubusercontent.com/81761545/134398910-3f10e5e8-4778-4802-a5f6-50eb457c1a12.png
