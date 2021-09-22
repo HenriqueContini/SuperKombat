@@ -10,8 +10,4 @@ Para esse projeto, peguei o código base do super trunfo e fiz algumas alteraç�
 
 ### Screenshot 🖼️
 
-<<<<<<< HEAD
 https://user-images.githubusercontent.com/81761545/134398910-3f10e5e8-4778-4802-a5f6-50eb457c1a12.png
-=======
-![image](https://user-images.githubusercontent.com/81761545/134398910-3f10e5e8-4778-4802-a5f6-50eb457c1a12.png)
->>>>>>> 8b3a80be50c8c2dc47cb5cbc856b19e28b7d418d
